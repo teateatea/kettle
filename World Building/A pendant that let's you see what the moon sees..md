@@ -1,3 +1,0 @@
-[[Moon]]
-
-[[Magic Items]]
