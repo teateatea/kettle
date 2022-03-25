@@ -1,5 +1,4 @@
-## Entry Points
-### TTRPGs
-#### GM Notes
+## Character Creation
 
-[[1 Approaching the Burial Mound]]
+### Classes
+[[Fighter]]
