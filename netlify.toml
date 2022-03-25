@@ -3,16 +3,30 @@ command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || tr
 publish = "public"
 
 [build.environment]
-LANDING_BUTTON = "Explore"
-LANDING_DESCRIPTION = "This is my personal knowledge management system. Concepts and snippets of knowledge are organized in an (unstructure) inter-linked knowledge graph."
-LANDING_PAGE = "home"
-LANDING_TITLE = "Welcome!"
 PYTHON_VERSION = "3.8"
-REPO_URL = "https://github.com/ppeetteerrs/obsidian-pkm"
-SITE_TITLE = "Tea's Second Brain"
-SITE_URL = "https://peteryuen.netlify.app/"
-TIMEZONE = "Asia/Hong_Kong"
 ZOLA_VERSION = "0.15.2"
+
+# Site title in navbar
+SITE_TITLE = "Tea's Second Brain"
+# Site URL
+SITE_URL = "https://peteryuen.netlify.app/"
+
+# Site Timezone, I think this is for the light/dark setting?
+TIMEZONE = "Asia/Hong_Kong"
+# Site repo URL
+REPO_URL = "https://github.com/teateatea/kettle"
+
+# Site title on landing page
+LANDING_TITLE = "Welcome!"
+# Site description on landing page
+LANDING_DESCRIPTION = "This is my personal knowledge management system. Concepts and snippets of knowledge are organized in an (unstructure) inter-linked knowledge graph."
+
+# Text in landing page button
+LANDING_BUTTON = "Explore"
+# The Markdown page linked to landing page button (e.g. put home for ./home.md)
+LANDING_PAGE = "home"
+
+
 
 # # Text in landing page button
 # LANDING_BUTTON = "Explore"
