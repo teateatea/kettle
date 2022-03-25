@@ -10,12 +10,11 @@ creation_date: [2022-03-25]
 ___
 *Fighters are adventurers dedicated to mastering the arts of combat and war. In a group of adventurers, the fighter’s role is to battle monsters and to defend their allies.*
 ___
-**Requirements:** None\\
-**Prime requisite:** STR\\
-**Hit Dice:** 1d8\\
-**Maximum level:** 14\\
-**Armour:** Any, including shields\\
-**Weapons:** Any\\
+**Requirements:** None<br>
+**Prime requisite:** STR<br>**Hit Dice:** 1d8<br>
+**Maximum level:** 14<br>
+**Armour:** Any, including shields<br>
+**Weapons:** Any<br>
 **Languages:** Alignment, Common
 
 | Level |  XP   | HD  | Deed |     |  D  |  W  |  P  |  B  |  S  |
