@@ -9,7 +9,7 @@ ZOLA_VERSION = "0.15.2"
 # Site title in navbar
 SITE_TITLE = "Tea's Second Brain"
 # Site URL
-SITE_URL = "teateatea.netlify.app"
+SITE_URL = "https://teateatea.netlify.app"
 
 # Site Timezone, I think this is for the light/dark setting?
 TIMEZONE = "Asia/Hong_Kong"
