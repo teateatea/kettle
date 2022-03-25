@@ -44,7 +44,7 @@ LANDING_PAGE = "home"
 # # Site URL
 # SITE_URL = ""
 # # Site Timezone
-# TIMEZONE = "Asia/Hong_Kong"
+# TIMEZONE = "America/Toronto"
 # ZOLA_VERSION = "0.15.2"
 # # How to sort notes on the right sidebar ("date" or "title"), defaults to "title" if missing or invalid
 # SORT_BY = "title"
