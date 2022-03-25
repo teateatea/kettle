@@ -1,0 +1,1 @@
+The rain drinkers like hot pot, but using tallow, rendered beef fat.
