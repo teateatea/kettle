@@ -1,0 +1,1 @@
+https://www.reddit.com/r/worldbuilding/comments/rcwke3/the_historical_role_of_european_style/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
