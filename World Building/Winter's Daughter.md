@@ -1,7 +1,7 @@
 ---
 aliases: ["Winter's Daughter"]
 location: [14.3995, 10.8994]
-tags: [#Forest]
+tags: [Forest]
 ---
 # Winter's Daughter
 by Gavin Norman
