@@ -1,1 +1,0 @@
-Speaking to the Universe so that it listens.

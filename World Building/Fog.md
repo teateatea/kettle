@@ -1,1 +1,0 @@
-[[A toxic fog that tastes like your favourite dessert]]

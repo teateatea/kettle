@@ -1,9 +1,0 @@
-- Breaker Plains
-- Phandalin, Tor
-- Tal’Arrar, Tor
-- Tal’Asham, Tor
-- Millburn, Tor 
-- The Torwood, Tor 
-- Brynn, Tor 
-- Villane, Tor 
-- Chesterfeld, Tor 
