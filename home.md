@@ -1,9 +1,9 @@
 ## University
 ### Year 4
 #### FYP
-[[university/FYP Plan]]
+[[world building/1 Approaching the Burial Mound]]
 
-[[deep learning/StyleGAN]]
+[[1 Approaching the Burial Mound]]
 
 [[tech/WSL2 NVIDIA Docker Error]]
 
