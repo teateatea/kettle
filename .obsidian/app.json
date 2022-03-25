@@ -1,0 +1,14 @@
+{
+  "defaultViewMode": "preview",
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "attachments",
+  "showUnsupportedFiles": true,
+  "newFileFolderPath": "misc"
+}
